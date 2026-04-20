@@ -1,5 +1,6 @@
 
 # Talent Simamkele Nocuze - Portfolio
+[View Live Portfolio](https://simamkelenoc.github.io/Portfolio/)
 
 ## About Me
 Final-year ICT student specializing in Applications Development at CPUT. Passionate about software development, databases, and solving real-world problems through technology.
@@ -67,8 +68,11 @@ I gained confidence and identified areas for improvement in my responses and bod
 ---
 
 ### GitHub Pages link
-https://simamkelenoc.github.io/Portfolio/
+
+**GitHub Pages URL:** (https://simamkelenoc.github.io/Portfolio/)
+
 ---
+
 ## Reflection (GitHub Pages – STAR Method)
 
 **Situation:** 
