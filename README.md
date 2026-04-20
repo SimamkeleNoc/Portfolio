@@ -1,6 +1,7 @@
+# Talent Simamkele Nocuze - Digital Portfolio
 
-# Talent Simamkele Nocuze - Portfolio
 [View Live Portfolio](https://simamkelenoc.github.io/Portfolio/)
+
 
 ## About Me
 Final-year ICT student specializing in Applications Development at CPUT. Passionate about software development, databases, and solving real-world problems through technology.
@@ -9,9 +10,20 @@ Final-year ICT student specializing in Applications Development at CPUT. Passion
 
 ## My CV
 
+## Summary
+A dedicated ICT student with strong knowledge in software development, database management, and networking fundamentals. Experienced in applying technical skills to academic and collaborative projects, with a focus on problem‑solving and user‑centred solutions. Skilled in programming, system analysis, and troubleshooting, while also demonstrating clear communication and teamwork abilities. Highly motivated to gain practical industry exposure through a learnership, contribute to innovative ICT solutions, and continue developing professional expertise in technology‑driven environments.
+
 ### Education
 - Diploma in ICT (Applications Development) – CPUT (2024–2026)
 - Matric – South City Christian College (2022)
+
+### Certifications
+- Introduction to IT Architecture
+- Cybersecurity Foundations: Application Security
+- IT Security Foundations: Core Concepts
+
+### Languages
+- English, Xhosa, Zulu, Afrikaans
 
 ### Skills
 - Programming: Java, Python, JavaScript
@@ -26,12 +38,21 @@ Final-year ICT student specializing in Applications Development at CPUT. Passion
 - Teamwork
 - Time management
 
+### References
+
+**Muso Nkuntu**  
+IT Mentor  
+063 679 6922  
+
+**Libolwetu Nokenke**  
+Colleague  
+074 881 4431 
+
 ---
 
 ## Mock Interview Video
 
 [Click here to watch my mock interview video](https://drive.google.com/file/d/1TbwJDof4q73s69GOIWrcLbrpSLN8VOIv/view?usp=sharing)
-
 
 ---
 
@@ -51,7 +72,7 @@ I successfully created a clean and structured portfolio, improving my documentat
 
 ---
 
-## Reflection (Mock Interview – STAR Method)
+## Reflection on Mock Interview (STAR Method)
 
 **Situation:** 
 I made a mock interview video as part of work readiness training.
@@ -67,13 +88,14 @@ I gained confidence and identified areas for improvement in my responses and bod
 
 ---
 
-### GitHub Pages link
+### GitHub Pages Deployement
 
-**GitHub Pages URL:** (https://simamkelenoc.github.io/Portfolio/)
+[View My Portfolio](https://simamkelenoc.github.io/Portfolio/)
+[My GitHub Profile](https://github.com/SimamkeleNoc)
 
 ---
 
-## Reflection (GitHub Pages – STAR Method)
+## Reflection on GitHub Pages (STAR Method)
 
 **Situation:** 
 I needed to publish my portfolio online.
