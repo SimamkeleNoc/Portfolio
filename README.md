@@ -30,9 +30,8 @@ Final-year ICT student specializing in Applications Development at CPUT. Passion
 
 ## Mock Interview Video
 
-<video width="600" controls>
-  <source src="mock-video.mp4" type="video/mp4">
-</video>
+[Click here to watch my mock interview video](https://drive.google.com/file/d/1TbwJDof4q73s69GOIWrcLbrpSLN8VOIv/view?usp=sharing)
+
 
 ---
 
