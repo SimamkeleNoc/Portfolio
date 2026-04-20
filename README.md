@@ -67,7 +67,7 @@ I gained confidence and identified areas for improvement in my responses and bod
 ---
 
 ### GitHub Pages link
-
+https://simamkelenoc.github.io/Portfolio/
 ---
 ## Reflection (GitHub Pages – STAR Method)
 
