@@ -52,7 +52,10 @@ Colleague
 
 ## Mock Interview Video
 
-[Click here to watch my mock interview video](https://drive.google.com/file/d/1TbwJDof4q73s69GOIWrcLbrpSLN8VOIv/view?usp=sharing)
+<iframe src="https://drive.google.com/file/d/1TbwJDof4q73s69GOIWrcLbrpSLN8VOIv/view?usp=sharing"
+  width="600" height="400"
+  allow="autoplay">
+</iframe>
 
 ---
 
